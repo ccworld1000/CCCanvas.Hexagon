@@ -1,0 +1,17 @@
+#
+# Created by CC (deng you hua | cworld1000@gmail.com) on 2021/12/27
+# https://github.com/ccworld1000/CCCanvas.Hexagon/CCCanvas.Hexagon.Swift
+#
+
+platform :ios, '10.0'
+
+target 'CCCanvas.Hexagon.Swift' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CCCanvas.Hexagon.Swift
+  # https://github.com/ccworld1000/CCCanvas
+  pod 'CCCanvas'
+
+end
+
